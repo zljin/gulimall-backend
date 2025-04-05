@@ -19,18 +19,6 @@ https://github.com/zljin/gulimall-backend/tree/master/files
 
 
 
-> 前端静态页面
-
-https://github.com/zljin/document/tree/master/cs/gulimall/nginx/html
-
-
-
-> 所有文档
-
-https://github.com/zljin/document/tree/master/cs/gulimall
-
-
-
 #### 人人开源工具
 
 https://gitee.com/renrenio
@@ -42,22 +30,15 @@ https://gitee.com/renrenio
 idea install mybatisx插件
 
 
+#### refer
 
-#### 参考文档
+https://github.com/NiceSeason/gulimall-learning/tree/master/docs  
 
-https://github.com/NiceSeason/gulimall-learning/tree/master/docs
+https://gitee.com/leifengyang/gulimall  
 
-
-
-#### 参考源码
-
-https://gitee.com/leifengyang/gulimall
+https://www.bilibili.com/video/BV1np4y1C7Yf/?p=314&spm_id_from=pageDriver&vd_source=88f2d67f21120fbed5f365a6638870f5  
 
 
-
-#### 视频地址
-
-https://www.bilibili.com/video/BV1np4y1C7Yf/?p=314&spm_id_from=pageDriver&vd_source=88f2d67f21120fbed5f365a6638870f5
 
 ## nacos
 
